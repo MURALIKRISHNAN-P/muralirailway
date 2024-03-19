@@ -1,0 +1,16 @@
+{
+  "name": "RailApp",
+  "displayName": "RailApp",
+  "expo": {
+    "name": "RailApp",
+    "slug": "RailApp",
+    "version": "1.0.0",
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.railapp"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
